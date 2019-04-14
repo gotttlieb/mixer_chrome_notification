@@ -5,6 +5,7 @@ This chrome extension permits you to get notifications when your favorite Mixer 
 # Modification for use
 
 You can modify the vars presents in the code and automatically will change the texts and get the stream you want to check.
+Ensure to check all files to proper customization. 
 
 # Notification method
 
