@@ -18,3 +18,4 @@ The extension will run in backgroud even if chrome is closed as other extension 
 # Notes
 
 This *is not* professional code, it's simple and "works" don't blame me for the cleanness or understandability of the code.
+jQuery v3.2.1 add directly to avoid external dependencies.
